@@ -77,18 +77,18 @@
 #     print(fruits)
 
 
-person = {
-    'first_name': 'Luke',
-    'last_name': 'Masterson',
-    'age': 33,
-    'country': 'Ireland',
-    'is_married': False,
-    'skills': ['JavaScript', 'React', 'Node', 'MongoDB', 'Python'],
-    'address': {
-        'street': 'Space street',
-        'zipcode': '02210'
-    }
-}
+# person = {
+#     'first_name': 'Luke',
+#     'last_name': 'Masterson',
+#     'age': 33,
+#     'country': 'Ireland',
+#     'is_married': False,
+#     'skills': ['JavaScript', 'React', 'Node', 'MongoDB', 'Python'],
+#     'address': {
+#         'street': 'Space street',
+#         'zipcode': '02210'
+#     }
+# }
 
 # # Check if the person dictionary has skills key, if so print out the middle skill in the skills list.
 # if 'skills' in person:
